@@ -32,7 +32,7 @@
         </main>
 
         <footer class="mt-4 pt-3 border-top text-muted small">
-            <p class="mb-0"><strong>Curso:</strong> Conceptualización de entornos de desarrollo de aplicaciones y servicios</p>
+            <p class="mb-0"><strong>Curso:</strong> Conceptualización de servicios en la nube</p>
             <p class="mb-0"><strong>Estudiante:</strong> Luis David Narvaez Altamirano</p>
             <p class="mb-0"><strong>Código:</strong>2115777</p>
             <p class="mb-0"><strong>Contacto:</strong> luis.narvaez@alumnos.udg.mx</p>
